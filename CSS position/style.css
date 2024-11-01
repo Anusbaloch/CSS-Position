@@ -1,0 +1,114 @@
+.card1{
+
+
+height: 244px;
+width: 198px;
+left: 160px;
+border-radius: 10px;
+background-color: aliceblue;
+}
+.image{
+    padding: 5px;
+   
+}
+.image img{
+    border-radius: 10px;
+}
+
+body{
+    background-color: antiquewhite;
+    position: relative;
+}
+div ul{
+    display: flex;
+    
+}
+ul li{
+    list-style: none;
+    padding: 10px;
+    
+}
+input{
+    margin-left: 757px;
+    border-radius: 19px;
+    padding-right: 71px;
+    
+}
+input:focus{
+    outline-color: blue;
+    
+}
+nav{
+    background-color: gray;
+    padding: 18px;
+}
+.legend{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+.box1{
+     margin: 1px;
+     padding-right: 1px;
+     border-radius: 2px;
+}
+.box2{
+    margin-left: 5px;
+    border-radius: 2px;
+    padding-right: 2px;
+}
+#main{
+    border-radius: 1px;
+    padding-bottom: 2px;
+    padding-right: 13px;
+    padding-top: 3px;
+    padding-left: 1px;
+    margin-left: 580px;
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul li{
+    font-size: large;
+    font-weight: 600;
+    color: aliceblue;
+    padding-right: ;
+}
+li:hover{
+    cursor: pointer;
+    color: black;
+}
+#Comment{
+    width: 250px;
+    height: 100px;
+
+    
+}
+#Comment:focus{
+    outline-color: blue;
+}
+.nav{
+    padding-right: 34px;
+}
+#navbar{
+    position: sticky;
+}
+.button{
+    background-color: rgb(156, 230, 156);
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+.button:hover{
+    background-color: darkgreen;
+    color: aliceblue;
+    cursor: pointer;
+}
+ul{
+    position: sticky;
+}
+.img1{
+    margin-left: 448px;
+    width: 250px;
+}
+
+
+
